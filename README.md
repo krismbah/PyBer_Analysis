@@ -20,7 +20,7 @@ The purpose of this analysis is to analyze all the rideshare data from January t
 ## Results
 
 - Describe the differences in ride-sharing data among the different city types.
-Using a scatter plot, we're able to see what appears to be a negative linear relationship between "Average Fare" and "Total Numbers of Rides" for the entire dataset. As the price of fares decline, total number of rides increase seen in Figure 1. The frequency of rides appears to be most concentrated in Urban cities and least in Rural. As such, Rural cities present the highest Average Fares and Urban cities the lowest:
+Using a scatter plot, we're able to see what appears to be a negative linear relationship between "Average Fare" and "Total Numbers of Rides" for the entire dataset. As the price of fares decline, total number of rides increases seen in Figure 1. The frequency of rides appears to be most concentrated in Urban cities and least in Rural. As such, Rural cities present the highest Average Fares and Urban cities the lowest:
 
 Figure 1:
 
@@ -75,7 +75,7 @@ To summarize, data from for the first quarter of 2019. The following observation
 7. Total Fares were $4327.93, $19,356.33, and $39,854.38 for Rural, Suburban, and Urban cities respectively.
 8. Average Fare per Ride was $34.62, $30.97, and $24.53 for Rural, Suburban, and Urban cities respectively.
 9. Average Fare per Driver was $55.49, $39.50, and $16.57 for Rural, Suburban, and Urban cities respectively.
-10. While Urban cities produced the most rides, drivers, and fares. They drivers took home the lowest fares on average.
+10. While Urban cities produced the most rides, drivers and fares. Their drivers took home the lowest fares on average.
 
 ![Summary_Chart](https://raw.githubusercontent.com/krismbah/PyBer_Analysis/main/analysis/Challenge_fare_summary.png)
 
