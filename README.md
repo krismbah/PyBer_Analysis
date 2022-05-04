@@ -62,12 +62,6 @@ Figure 7:
 
 ![Figure_7](https://raw.githubusercontent.com/krismbah/PyBer_Analysis/main/analysis/Fig7.png)
 
-- How is the school summary affected?
-Using the school data, an index of school type was created. Metrics regarding total student count, total school budget, per capita spending, average test scores, passing scores for math and reading, number of students passing math and reading by school, percentage of students passing math and reading scores by school, total students that passed math and reading by school and their percentages. The aforementioned metrics were then compiled into a new dataframe called "per_school_summary_df" with the following format to generate the output below:
-
-- How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
-Replacing the ninth graders' improved average math and reading scores. However, it lowered the percentage of students passing math, reading, and both subjects overall. THS didn't cha
-
 ## Summary
 
 To summarize, data from for the first quarter of 2019. The following observations were made:
@@ -76,5 +70,18 @@ To summarize, data from for the first quarter of 2019. The following observation
 2. Total Fares appear to have the highest growth in Suburban cities.
 3. Urban cities collected the highest Total Fares of all the city types.
 4. Rural cities collected the lowest Total Fares of all the city types.
+5. Total Rides were 125, 625, and 1,625 for Rural, Suburban, and Urban cities respectively.
+6. Total Drivers were 78, 490, and 2,405 for Rural, Suburban, and Urban cities respectively.
+7. Total Fares were $4327.93, $19,356.33, and $39,854.38 for Rural, Suburban, and Urban cities respectively.
+8. Average Fare per Ride was $34.62, $30.97, and $24.53 for Rural, Suburban, and Urban cities respectively.
+9. Average Fare per Driver was $55.49, $39.50, and $16.57 for Rural, Suburban, and Urban cities respectively.
+10. While Urban cities produced the most rides, drivers, and fares. They drivers took home the lowest fares on average.
 
 ![Summary_Chart](https://raw.githubusercontent.com/krismbah/PyBer_Analysis/main/analysis/Challenge_fare_summary.png)
+
+![Figure_8](https://raw.githubusercontent.com/krismbah/PyBer_Analysis/main/analysis/Fig8.png)
+
+- Three recommendations to CEO, V. Isualize in regard to addressing any disparities among the city types.
+1. Total Fares remained relatively flat across all three city types.
+2. Total Fares appear to have the highest growth in Suburban cities.
+3. Urban cities collected the highest Total Fares of all the city types.
