@@ -82,6 +82,6 @@ To summarize, data from for the first quarter of 2019. The following observation
 ![Figure_8](https://raw.githubusercontent.com/krismbah/PyBer_Analysis/main/analysis/Fig8.png)
 
 - Three recommendations to CEO, V. Isualize in regard to addressing any disparities among the city types.
-1. Total Fares remained relatively flat across all three city types.
-2. Total Fares appear to have the highest growth in Suburban cities.
-3. Urban cities collected the highest Total Fares of all the city types.
+1. Increase the number of drivers in Rural cities in order to lower fares and possibly increase ride frequency.
+2. Maintain the current number of drivers in Suburban cities in order to maintain its balance.
+3. Lower the number of drivers in Urban cities in order to increase fares per driver.
