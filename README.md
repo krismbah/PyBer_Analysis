@@ -26,16 +26,17 @@ Figure 1:
 
 ![Figure_1](https://raw.githubusercontent.com/krismbah/PyBer_Analysis/main/analysis/Fig1.png)
 
-
-
+In 2019, Urban cities accounted for the the highest Number of Rides and Rural cities the lowest seen here in Figure 2:
 
 Figure 2:
 
 ![Figure_2](https://raw.githubusercontent.com/krismbah/PyBer_Analysis/main/analysis/Fig2.png)
 
-Without THS ninth-graders:
+Rural cities accounted for the widest range of Fares. However, Urban cities were most economic with the lowest accounted Fares seen in Figure 3:
 
-![Ninth_New_Results6](https://raw.githubusercontent.com/krismbah/PyBer_Analysis/main/analysis/Fig3.png)
+Figure 3:
+
+![Figure_3](https://raw.githubusercontent.com/krismbah/PyBer_Analysis/main/analysis/Fig3.png)
 
 Without THS ninth-graders:
 
