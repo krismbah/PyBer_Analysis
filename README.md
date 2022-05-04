@@ -38,64 +38,43 @@ Figure 3:
 
 ![Figure_3](https://raw.githubusercontent.com/krismbah/PyBer_Analysis/main/analysis/Fig3.png)
 
-Without THS ninth-graders:
+Urban cities exhibited the largest Number of Drivers (Figure 4). Which may attribute to its market ability to keep Fares lower than Suburban and Rural cities.
 
-![Ninth_Old_Results5](https://raw.githubusercontent.com/krismbah/PyBer_Analysis/main/analysis/Fig4.png)
+Figure 4:
 
-Without THS ninth-graders:
+![Figure_4](https://raw.githubusercontent.com/krismbah/PyBer_Analysis/main/analysis/Fig4.png)
 
-![Ninth_New_Results6](https://raw.githubusercontent.com/krismbah/PyBer_Analysis/main/analysis/Fig5.png)
+Urban cities accumulated 62.7 percent of the Total Fares by City Type. Rural cities made up only 6.8 percent (Figure 5):
 
-Without THS ninth-graders:
+Figure 5:
 
-![Ninth_Old_Results5](https://raw.githubusercontent.com/krismbah/PyBer_Analysis/main/analysis/Fig6.png)
+![Figure_5](https://raw.githubusercontent.com/krismbah/PyBer_Analysis/main/analysis/Fig5.png)
 
-Without THS ninth-graders:
+In regard to Total Rides by City Type, Urban cities accounted for 68.4 percent of total rides, Suburban cities 26.3 percent, and Rural cities 5.3 percent (Figure 6):
 
-![Ninth_New_Results6](https://raw.githubusercontent.com/krismbah/PyBer_Analysis/main/analysis/Fig7.png)
+Figure 6:
+
+![Figure_6](https://raw.githubusercontent.com/krismbah/PyBer_Analysis/main/analysis/Fig6.png)
+
+Figure 7 displays how Urban cities dominated the market supply of Drivers:
+
+Figure 7:
+
+![Figure_7](https://raw.githubusercontent.com/krismbah/PyBer_Analysis/main/analysis/Fig7.png)
 
 - How is the school summary affected?
 Using the school data, an index of school type was created. Metrics regarding total student count, total school budget, per capita spending, average test scores, passing scores for math and reading, number of students passing math and reading by school, percentage of students passing math and reading scores by school, total students that passed math and reading by school and their percentages. The aforementioned metrics were then compiled into a new dataframe called "per_school_summary_df" with the following format to generate the output below:
-![School_Results2](https://raw.githubusercontent.com/krismbah/PyBer_Analysis/main/analysis/Challenge_fare_summary.png)
 
 - How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
-Replacing the ninth graders' improved average math and reading scores. However, it lowered the percentage of students passing math, reading, and both subjects overall. THS didn't change from its number two ranking. Which indicates that the ninth graders' reading and math scores were indeed negligible. 
-
-With THS ninth-graders:
-
-![THS_Old_Results3](https://raw.githubusercontent.com/krismbah/School_District_Analysis/main/Results3.jpg)
-
-Without THS ninth-graders:
-
-![THS_New_Results4](https://raw.githubusercontent.com/krismbah/School_District_Analysis/main/Results4.jpg)
-
-- How does replacing the ninth-grade scores affect the following:
-
-    -Math and reading scores by grade:
-     Replacing the ninth-grade scores didn't affect the math and reading scores of any other grade at THS.
-    
-    -Scores by school spending:
-     Due to rounding, I am not certain that replacing the ninth-grade scores didn't affect math and reading scores by school spending. But it appears that way.
-    
-    -Scores by school size:
-     Due to rounding, I am not certain that replacing the ninth-grade scores didn't affect math and reading scores by school size. But it appears that way.
-
-    -Scores by school type:
-     Replacing the ninth-grade scores improved the average reading score for "Charter" school types. However, the average math score was lowered and passing percentages were also lowered across the board.
-
-With THS ninth-graders:
-
-![Ninth_Old_Results5](https://raw.githubusercontent.com/krismbah/School_District_Analysis/main/Results5.jpg)
-
-Without THS ninth-graders:
-
-![Ninth_New_Results6](https://raw.githubusercontent.com/krismbah/School_District_Analysis/main/Results6.jpg)
+Replacing the ninth graders' improved average math and reading scores. However, it lowered the percentage of students passing math, reading, and both subjects overall. THS didn't cha
 
 ## Summary
 
-To summarize, the following changes to the school district analysis were made after ninth-grade reading and math scores from Thomas High School were omitted:
+To summarize, data from for the first quarter of 2019. The following observations were made:
 
-1. Reading and math scores were improved at THS.
-2. The percentage of students passing math, reading, and both subjects overall declined.
-3. Average reading scores for Charter schools improved.
-4. Average math scores and passing percentages for math, reading, and overall declined for Charter schools.
+1. Total Fares remained relatively flat across all three city types.
+2. Total Fares appear to have the highest growth in Suburban cities.
+3. Urban cities collected the highest Total Fares of all the city types.
+4. Rural cities collected the lowest Total Fares of all the city types.
+
+![Summary_Chart](https://raw.githubusercontent.com/krismbah/PyBer_Analysis/main/analysis/Challenge_fare_summary.png)
